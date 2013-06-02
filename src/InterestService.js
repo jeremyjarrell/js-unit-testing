@@ -1,5 +1,4 @@
-function InterestService () {
-	// body...
+function InterestService() {
 }
 
 InterestService.prototype.getCurrentRate = function() {

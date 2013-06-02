@@ -1,4 +1,4 @@
-function BankAccount (amount) {
+function BankAccount(amount) {
 	this.balance = amount;
 }
 
